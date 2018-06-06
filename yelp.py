@@ -83,13 +83,6 @@ df = pd.DataFrame({"Name": titles, "City": cities, "Frequency": frequency}, colu
 for x in df:
     df.to_csv('yelp-checkins.csv', index=False)
     
-"""for x in y:
-    for name in titles:
-        google_maps.google_maps(name)
-    print(name)
-"""
-
-google_maps.google_maps(titles)
 
 
 
