@@ -1,3 +1,2 @@
-***
-python script to login to yelp account, scrape check-ins \
-export to pandas database, export to csv...includes name of restaurant, city, and number of checkins
+Python script to login to yelp account, scrape check-ins, export to database, and finally export to CSV.
+Items scraped are restaurant name, city, and number of check-ins.
