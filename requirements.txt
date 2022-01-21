@@ -3,7 +3,7 @@ bs4==0.0.1
 certifi==2018.4.16
 chardet==3.0.4
 idna==2.6
-ipython==6.4.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 lxml==4.2.1
 numpy==1.14.4
